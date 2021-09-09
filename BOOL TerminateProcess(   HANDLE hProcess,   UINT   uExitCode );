@@ -1,0 +1,5 @@
+BOOL TerminateProcess(
+  HANDLE hProcess,
+  UINT   uExitCode
+);
+
